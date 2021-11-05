@@ -1,0 +1,107 @@
+what elemnt that represents you most?
+
+1-Fire 40
+2-Air 10
+3-Water 30
+4-Earth 20
+
+What season you prefer? \n 1-Winter \n 2-Fall \n 3-Spring \n 4-Summer \n
+
+What animal you prefer? \n 1-Lesard \n 2-Fish \n 3-Dog \n 4-Cat \n
+
+What kind of music you like? \n 1-Pop Music \n 2-Classic \n 3-Modern \n 4-Only the successful songs \n
+
+What is your hair color? \n 1-Red \n 2-Black \n 3-Brown \n 4-Blonde \n
+
+
+What do you do in your free time? \n 1-Playing video games \n 2-Preparing for exams \n 3-Volunteering \n 4-Shopping \n
+
+What kind of books you like? \n 1-Sci-Fi \n 2-Culture \n 3-All kinds \n 4-Romance \n
+
+If you want to watch a movie, what would you choose? \n 1-Godzilla \n 2-Action \n 3-Any movie \n 4-Comedy \n
+
+What do you prefer? \n 1-Going to games store \n 2-Going to the library \n 3-Helping others \n 4-Going to the barber \n
+ 
+Do you care about politics? \n 1-Kind of \n 2-No \n 3-Yes \n 4-I love it so much \n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100-160
+Geek
+you're a geek but in a good way, you are creative and you don't fear from showing your personality
+
+170-240
+Serious
+You're smart, You got a high concentration,and in some day you'll be successfull
+
+250-320
+Kind
+You're a good man, and you easly get in touch with others and you have fun when helping them
+
+330-400
+atractive
+
+you are a human who got his own style on everything and you love life so much
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

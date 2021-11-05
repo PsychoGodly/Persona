@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579887251 source:d:\work\programming\c\independent projects\persona\persona\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1579887540 source:d:\work\programming\c\independent projects\persona\persona\resources.rc
+

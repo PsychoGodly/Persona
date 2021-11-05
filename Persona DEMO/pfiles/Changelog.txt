@@ -1,0 +1,173 @@
+v1.0
+unlaunchable
+v2.0
+unlaunchable
+v3.12
+unlaunchable
+v4.98
+unlaunchabe
+v5.1.16
+launch fixed
+add 10 questions
+v5.1.85
+with user contact addded
+v5.3.1
+loading fixed
+v6.13.45
+fixed calclating
+v7.89.12.1
+fixed error
+v8.0.0.1
+fixed 2 errors
+v9.1.51.15
+fixed all errors
+v10.0.3.24
+fixed persona calculatorfixed range
+fixed error 001, error 002, error 003,error 004
+added the try again in the software
+added the error when an entry not in the list
+added 2 times choice confirmation
+added multi persona kinds
+improve with user contact
+improve using
+more bugs are fixed
+v11.1.25.99
+changed icon
+more bugs are fixed
+v12.5.89.78
+fixed bugs
+project professional materials
+icon not showing
+v13.79.15.1
+icon not showing
+v14.82.56.89
+fixed bugs
+icon not showing
+v15.84.90.71
+fixed bugs
+dll probleme
+icon not showing fixed
+v16.84.98.19
+fixed bugs
+changed icon
+dll error fixed
+in-source modifiction
+more bugs fixed
+v16.90.99.79
+software version error fixed when v10 is showed but it's 11,12,13,14,15,16
+question corrected
+more bugs are fixed
+v17.0.0.0
+fixed version problem
+now the exact verion number is shows
+more bugs are fixed
+v17.0.0.1
+added change log
+more bugs are fixed
+v17.0.0.30
+fixed error when CHANGELOG : errorWARNING...
+More bugs are fixed
+v17.0.45.13
+changelog canceled
+more bugs are fixed
+v17.5.70.89
+more bugs fixed
+v18.9.25.26
+Loading fixed
+enter to continue fix and added
+added surprisewith-user contact improved
+more bugs fixed
+v19.98.46.3
+fixed unlounchable
+more bugs fixed
+v20.0.0.0
+UI Improved
+Session console statics removed 
+fixed surprise, when everyone win
+more bugs fixed
+v21.0.5.29
+fixed surprise, when everyone win
+more bugs are fxed
+v21.75.43.18
+surprise when everyone win issue
+fixed when the software completly went off when choosing NO at the end of the session
+now you enter anykeyword after choosing NO to exit
+more bugs are fixed
+v21.98.45.90
+removed surprise
+more bugs are fixed
+added a new choice
+more bugs fixed
+v21.99.99.99
+fixed error when type 1 or 2 or 3 or 4 when choosing 5 in 10th question
+more bugs fixed
+V22.85.75.2
+Fixed ERROR CHOR_EQ_VOID
+more bugs fixed
+v23.86.15.89.13
+Fixed ERROR CHOR_FIVE_PROB
+more bugs fixed
+v24.0.15.89
+removed 5 fromm 10
+more bugs fixed
+v30.5.18.99
+aded magic key
+Fixed ERR_MGKEY_JUMPLINE right after the 1% Persona
+Fixed fixed first statment
+Fixed ERR_CHAR_PER::145f right after 1% Persona
+more bugs fixed
+v30.89.75.97
+Fixed the Persona icon wont show up since v16
+Prnk is this version
+Persona is down
+persona is up
+more bugs fixed
+v31.0.0.0
+Persona first statment changed
+changed icon
+more bugs fixed
+v31.0.0.1
+added f11 full screen feathure
+more bugs are fixed
+v31.0.0.5
+fixed first statment
+more bugs are fixed
+v31.0.19.89
+added exit confirmation
+more bugs are fixed
+v31.1.1.18
+fixed three enteries in exit progress
+more bugs are fixed
+v31.1.76.46
+unlaunchable fixed
+more bugs fixed
+v50.0.0.0 last beta/alpha
+icon not showing fixed
+icon updated
+after trying again 
+fixed when "Persona"({%installation path%}\Persona\bin\Debug\PersonaV{%version%}.exe) is not up to date, 
+and "Persona.exe"({%installation path%}\Persona\Persona.exe) is up to date and without an icon
+added Commands at the end and the beginning of the session ,the List:
+you cannot use them in the session
+in the begining and at the end
+before typing commandes 
+a message says "pcmd?"
+"activate_pcmd" : then type license key to unlock the commands list or purchase PersQna the 100% trustful and more than 10 questions and surprises or PPersona in console mode
+"pcmd_launch=true" or "start_" : to turn on commands
+"pcmd_launch=false" or "end_": to turn off commands
+then
+in the begining and at the end
+"read_changelog" : to read changelog 
+"repeat" : try again the session or restart the session 
+"exit" : exit the session (beta)
+"help" : get help on how to use the programme
+"pcmd" : to get commands list
+"sesson" : start session
+"sessoff": end session
+only at the end
+"myscore" : show your personality points
+"show_magickey=true" or "magickey" : know the magic key, to fool your friends that you are the one, but without it it's true but not 100%
+"help_magickey=true" or "u.magickey" : to know how to use the magic key
+"get_li_unlock" : to get licence key to activate Persona else Collection
+"get_vold" : to run the old version (the very old stable version)
+"get_vnew" : to run the newest version

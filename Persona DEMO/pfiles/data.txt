@@ -1,0 +1,152 @@
+what elemnt that represents you most?
+
+1-Fire 40
+2-Air 10
+3-Water 30
+4-Earth 20
+
+What season you prefer?
+
+1-Spring 30
+2-Summer 40
+3-Fall 20
+4-Winter 10
+
+What animal you prefer?
+
+1-Lesard 10 
+2-Dog 30
+3-Fish 20
+4-Cat 40
+
+What kind of music you like?
+
+1-Classic 20
+2-Only the successful songs 40
+3-Modern 30
+4-Pop Music 10
+
+What is your hair color?
+
+1-Brown 30
+2-Red 10
+3-Black 20
+4-Blonde 40
+
+What do you do in your free time?
+
+1-Preparing for exams 20
+2-Playing video games 10
+3-Shopping 40
+4-Volunteering 30
+
+What kind of books you like?
+
+1-All kinds 30
+2-Culture 20
+3-Romance 40
+4-Sci-Fi 10
+
+If you want to watch a movie, what would you choose?
+
+1-Any movie 302-Godzilla 10
+3-Comedy 40
+4-Action 20
+
+What do you prefer?
+
+1-Going to the library 20
+2-Going to the barber 40
+3-Helping others 30
+4-Going to games store 10
+
+Do you care about politics?
+
+1-I love it so much
+2-Kind of
+3-Yes
+4-No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100-160
+Geek
+you're a geek but in a good way, you are creative and you don't fear from showing your personality
+
+170-240
+Serious
+You're smart, You got a high concentration,and in some day you'll be successfull
+
+250-320
+Kind
+You're a good man, and you easly get in touch with others and you have fun when helping them
+
+330-400
+atractive
+
+you are a human who got his own style on everything and you love life so much
+
+
+q 1
+errfix 1
+temp errfix 1
+q temp 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
